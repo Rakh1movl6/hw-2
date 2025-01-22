@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+}
+.verh{
+    margin: 100px 200px;
+    padding: 0px 50px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    align-items: center;
+    font-size: 25px;
+}
+.ch1{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+select{
+    padding: 10px;
+    border-radius: 10px;
+}
+input{
+    padding: 10px;
+    border-radius: 10px;
+    border-collapse: collapse;
+    border: 2px solid gray;
+    outline: none;
+}
+input::placeholder{
+    font-size: 17px;
+}
+.ch2{
+    display: flex;
+    gap: 20px;
+    background-color: #624DE3;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    
+}
+.ch2 img{
+    width: 25px;
+}
