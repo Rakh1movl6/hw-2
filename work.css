@@ -90,3 +90,6 @@ border: 2px solid black;
 .i img{
     margin-left: 30px;
 }
+git add .
+git commit -m "commit"
+git push -u origin main
